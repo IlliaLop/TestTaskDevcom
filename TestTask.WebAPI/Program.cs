@@ -1,3 +1,4 @@
+using TestTask.BLL.Extensions;
 using TestTask.DAL.Extensions;
 using TestTask.Extensions;
 
@@ -15,6 +16,7 @@ builder.Configuration
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper();
 builder.Services.RegisterCustomServices();
 builder.Services.AddTestTaskContext(builder.Configuration);
 

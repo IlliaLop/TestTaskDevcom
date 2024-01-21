@@ -12,3 +12,6 @@ F:\RiderProjects\TestTask\TestTask.BLL\obj\Debug\net7.0\refint\TestTask.BLL.dll
 F:\RiderProjects\TestTask\TestTask.BLL\obj\Debug\net7.0\TestTask.BLL.pdb
 F:\RiderProjects\TestTask\TestTask.BLL\obj\Debug\net7.0\TestTask.BLL.genruntimeconfig.cache
 F:\RiderProjects\TestTask\TestTask.BLL\obj\Debug\net7.0\ref\TestTask.BLL.dll
+F:\RiderProjects\TestTask\TestTask.BLL\bin\Debug\net7.0\TestTask.DAL.dll
+F:\RiderProjects\TestTask\TestTask.BLL\bin\Debug\net7.0\TestTask.DAL.pdb
+F:\RiderProjects\TestTask\TestTask.BLL\obj\Debug\net7.0\TestTask.BLL.csproj.CopyComplete

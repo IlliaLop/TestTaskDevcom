@@ -78,3 +78,4 @@ F:\RiderProjects\TestTask\TestTask.WebAPI\bin\Debug\net7.0\TestTask.BLL.dll
 F:\RiderProjects\TestTask\TestTask.WebAPI\bin\Debug\net7.0\TestTask.DAL.dll
 F:\RiderProjects\TestTask\TestTask.WebAPI\bin\Debug\net7.0\TestTask.BLL.pdb
 F:\RiderProjects\TestTask\TestTask.WebAPI\bin\Debug\net7.0\TestTask.DAL.pdb
+F:\RiderProjects\TestTask\TestTask.WebAPI\bin\Debug\net7.0\AutoMapper.dll
