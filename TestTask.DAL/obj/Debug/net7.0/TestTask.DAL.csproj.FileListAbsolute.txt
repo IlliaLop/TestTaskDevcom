@@ -1,0 +1,14 @@
+F:\RiderProjects\TestTask\TestTask.DAL\bin\Debug\net7.0\TestTask.DAL.deps.json
+F:\RiderProjects\TestTask\TestTask.DAL\bin\Debug\net7.0\TestTask.DAL.runtimeconfig.json
+F:\RiderProjects\TestTask\TestTask.DAL\bin\Debug\net7.0\TestTask.DAL.dll
+F:\RiderProjects\TestTask\TestTask.DAL\bin\Debug\net7.0\TestTask.DAL.pdb
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.csproj.AssemblyReference.cache
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.AssemblyInfoInputs.cache
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.AssemblyInfo.cs
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.csproj.CoreCompileInputs.cache
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.dll
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\refint\TestTask.DAL.dll
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.pdb
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\TestTask.DAL.genruntimeconfig.cache
+F:\RiderProjects\TestTask\TestTask.DAL\obj\Debug\net7.0\ref\TestTask.DAL.dll

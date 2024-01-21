@@ -13,7 +13,7 @@ public class OrderConfig: IEntityTypeConfiguration<Order>
 
         builder.Property(x => x.UserId).IsRequired();
 
-        builder.Property(x => x.OrderDate).IsRequired().HasColumnType("DATETIME");
+        builder.Property(x => x.OrderDate).IsRequired().HasColumnType("datetime2");  
         builder.Property(x => x.OrderCost).IsRequired().HasColumnType("MONEY");
     
         builder.Property(x => x.ItemsDescription).HasMaxLength(1000);
